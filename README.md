@@ -61,9 +61,3 @@ The primary goal of this project is to automatically categorize movie reviews ba
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tonyankit/tonyankit/output/snake.svg" alt="Snake animation" />
-
-###
